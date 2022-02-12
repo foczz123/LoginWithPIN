@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'game.dart';
+import '../game.dart';
 
 class LoginPage extends StatefulWidget {
   static const buttonSize = 60.0;
